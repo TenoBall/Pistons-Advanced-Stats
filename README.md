@@ -9,3 +9,5 @@ I'm really puzzled by Ausar Thompson being a high-minutes (30+) on a successful 
 -There has been interesting plus/minus numbers in early Jan 2025 games plus further questionable on/off stats. Will look to confirm/debunk these a bit.  
 
 Beyond Ausar's limitations, Ron Holland and Jaden Ivey are quite duplicative as young wings, primarily Ron Holland as a defense-first wing.
+
+Notes 2/21 - How does this change with Jaden Ivey getting traded? Could this lead to more minutes for Ausar + Ron? What do the numbers look like with Ausar and Ron on the floor together?
