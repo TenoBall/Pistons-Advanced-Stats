@@ -1,6 +1,5 @@
 # Pistons-Advanced-Stats
-Data via Cleaning the Glass
-Assessing the Pistons roster to see who I think could be viable trade/re-sign candidates  
+Data via Cleaning the Glass  
 
 ## Early Notes  
 I'm really puzzled by Ausar Thompson being a high-minutes (30+) on a successful playoff team.  
@@ -37,7 +36,7 @@ Offensive Comparison
 Below we have a couple of absolute brick layers on offense.  
 
 Ausar  
-
+<img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/Ausar%20Offense.png" alt="Ausar Offensive Stats" width="333" height="333">
 
 Ron  
 
