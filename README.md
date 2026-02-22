@@ -1,4 +1,5 @@
 # Pistons-Advanced-Stats
+Data via Cleaning the Glass
 Assessing the Pistons roster to see who I think could be viable trade/re-sign candidates  
 
 ## Early Notes  
