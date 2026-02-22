@@ -36,7 +36,7 @@ Offensive Comparison
 Below we have a couple of absolute brick layers on offense.  
 
 Ausar  
-<img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/Ausar%20Offense.png" alt="Ausar Offensive Stats" width="333" height="333">
+<img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/Ausar%20Offense.png" alt="Ausar Offensive Stats">
 
 Ron  
 
