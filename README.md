@@ -39,15 +39,16 @@ Ausar
 <img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/Ausar%20Offense.png" alt="Ausar Offensive Stats">
 
 Ron  
-
+<img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/Ron%20Offense.png" alt="Ron Offensive Stats">
 
 Defensive Comparison  
 Absolute honey badgers on the defensive end. If I caught the ball in a matchup with either of them I would hot potato it right back to who passed it to me. It would still probably be a turnover.  
 
 Ausar  
-
+<img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/Ausar%20Defense.png" alt="Ausar Defensive Stats">
 
 Ron  
+<img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/Ron%20Defense.png" alt="Ron Defensive Stats">
 
 ###Other Early Notes  
 
