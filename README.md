@@ -1,7 +1,7 @@
-# Pistons-Advanced-Stats
+# Pistons-Advanced-Stats / Puzzled by Ausar Thompson
 Feb 23 Note: Playing around with Cursor to find the lineups with low frequency three point shooters. Main visual below. Need to cleanup and add context.  
 
-
+<img src="" alt="Low Freq 3 Lineups">
 
 Data via Cleaning the Glass  
 
