@@ -1,7 +1,8 @@
-# Pistons-Advanced-Stats / Puzzled by Ausar Thompson
-Feb 23 Note: Playing around with Cursor to find the lineups with low frequency three point shooters. Main visual below. Need to cleanup and add context.  
+# Pistons-Advanced-Stats / Puzzled by Ausar Thompson  
+Feb 23 Note 1: Ausar played 19 minutes against the Spurs tonight... why  
+Feb 23 Note 2: Playing around with Cursor to find the lineups with low frequency three point shooters. Main visual below. Need to cleanup and add context.  
 
-<img src="" alt="Low Freq 3 Lineups">
+<img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/playoff_lineups_low_3pa.png" alt="Low Freq 3 Lineups">
 
 Data via Cleaning the Glass  
 
