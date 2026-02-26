@@ -1,7 +1,7 @@
 # Pistons-Advanced-Stats / Puzzled by Ausar Thompson  
 Feb 23 Note 1: Ausar played 19 minutes against the Spurs tonight... why  
 Feb 23 Note 2: Playing around with Cursor to find the lineups with low frequency three point shooters. Main visual below. Need to cleanup and add context.  
-Feb 25 Note: Tinkering with some lineup stuff. Sasser not playing more? Levert... bruh. Why does Ausar seem to be so bad in transition offense?
+Feb 25 Note: Tinkering with some lineup stuff. Sasser not playing more? Levert... bruh. Why does Ausar seem to be so bad in transition offense? For example, Ausar is obviously a defensive demon, but the Pistons score better in transition by 0.4 points with him off than on. Amen is +1.2 off steals, for reference.  
 
 <img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/playoff_lineups_low_3pa.png" alt="Low Freq 3 Lineups">
 
