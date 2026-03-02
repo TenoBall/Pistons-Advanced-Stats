@@ -1,12 +1,37 @@
-# Pistons-Advanced-Stats / Puzzled by Ausar Thompson  
+# Is the Pistons lack of shooting a problem in the playoffs?  
+
+Data via Cleaning the Glass  
+
+The 2025-2026 Pistons will likely be the Eastern Conference’s 1 seed after, for the most part, successfully navigating a tougher stretch of schedule in February. We are officially thinking about multiple rounds of playoffs with the following roster:  
+
+<img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/Pistons%20Roster.png" alt="Pistons Roster">  
+
+I’ll dive further into some on/off diff numbers within this repo. In particular, I will use these differentials and other per 100 possessions differentials to really study Ausar Thompson and the Pistons lack of outside shooting as they look to finish the season and hopefully make a deep playoff run.  
+
+Of course, on/off differentials and lineups are not everything. I’m not here to tell you that because Duncan Robinson has a 5.3 on/off diff that he is a better basketball player than Ausar Thompson’s 3.4 on/off diff. I am here to tell you that Ausar can play in some clunky lineups that impacts his overall differential negatively.  
+
+## Do non-shooting teams excel in the postseason?  
+
+Less narrative here now. Pointing to most of my code and the below visuals. More or less, the conclusion is that our ceiling is the early 2020s Miami Heat. Meaning we can make the finals but will probably be heavy underdogs if we got there. This is based on the below visual conclusions as well as perception and observations from myself and other pundits (i.e. Zach Lowe).  
+
+<img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/playoff_lineups_low_3pa.png" alt="Low Freq 3 Lineups">
+
+<img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/low_accuracy_lineups_visual.png" alt="Low Accuracy 3 Lineups">  
+
+## Should Ausar Thompson play more minutes?  
+
+It’s weird that Ausar Thompson plays 26 minutes on the Pistons and his twin brother is second in the league in MPG at 37 minutes. They are virtually the same player in terms of build, skillset, plus offensive and defensive acumen. Their effective FG% are 0.1 percentage points off of each other’s. Even if you say that Amen handles the ball more this year without Fred Van Vleet, you can point to last year where Amen played 32 minutes a game.  
+
+
+## Need to clean a bit of the below:  
+
 Feb 23 Note 1: Ausar played 19 minutes against the Spurs tonight... why  
 Feb 23 Note 2: Playing around with Cursor to find the lineups with low frequency three point shooters. Main visual below. Need to cleanup and add context.  
 Feb 25 Note: Tinkering with some lineup stuff. Sasser not playing more? Levert... bruh. Why does Ausar seem to be so bad in transition offense? For example, Ausar is obviously a defensive demon, but the Pistons score better in transition by 0.4 points with him off than on. Amen is +1.2 off steals, for reference.  
 Other Notes: Zach Lowe exploring Pistons parallels to recent teams. Notably, the 2022 Memphis Grizzlies with defense-first team with an all-NBA young PG. He also mentioned challenges in teams with limited playoff exposure being successful in the postseason, which I generally disagree with. Early Warriors and Cavs (Lebron aside) had very limited postseason experience. Within this, he mentioned the 2020 Heat as a team with similar lack of postseason experience. The defense-first and multiple non 3-point shooters on the floor serve as a good parallel.  
 
-<img src="https://github.com/TenoBall/Pistons-Advanced-Stats/blob/main/playoff_lineups_low_3pa.png" alt="Low Freq 3 Lineups">
 
-Data via Cleaning the Glass  
+ 
 
 ## Early Notes  
 I'm really puzzled by Ausar Thompson being a high-minutes (30+) on a successful playoff team.  
